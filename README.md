@@ -30,7 +30,7 @@
 
 - edit the Authentication sections - PermitRootLogin yes type.
 
-- check the service status in the ubuntu - ervice --status-all
+- check the service status in the ubuntu - services --status-all
 - start the ssh service - services ssh start.
 
 - create the second conatiner, update the ubuntu images file, install the openssh-client and also install vim text editor.
